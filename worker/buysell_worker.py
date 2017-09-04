@@ -4,7 +4,7 @@ from bittrex import Bittrex
 import operator
 import time
 import inspect
-from ..contants import ERROR
+from ..constants import ERROR
 
 
 class BittrexBuysellWorker(object):

@@ -4,7 +4,7 @@ import exchange
 from worker import BittrexBuysellWorker
 from datetime import datetime
 #from error_handle import ERROR
-from contants import ERROR
+#from constants import ERROR
 import time
 
 try:
